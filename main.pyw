@@ -1,2 +1,2 @@
 #Идеально работающий код
-print ("Hello World sssss")
+print ("Hello World sss")
